@@ -30,9 +30,6 @@ theta_1 = Symbol("theta_1")
 theta_2 = Symbol("theta_2")
 theta_3 = Symbol("theta_3")
 
-theta_1 = 0
-theta_2 = 0
-theta_3 = 0
 
 theta_1 = input("please enter theta1 : ")
 theta_2 = input("please enter theta2 : ")
@@ -77,6 +74,5 @@ orientation = A03[0:3, 0:3]
 
 print("position =", position)
 print("Orientation =", orientation)
-
 
 
